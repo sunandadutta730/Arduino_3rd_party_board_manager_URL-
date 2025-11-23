@@ -1,7 +1,7 @@
 # 📚 Arduino Boards Manager — Quick Reference & Install Guide
 
 Add these Boards Manager URLs to your Arduino IDE to unlock popular cores (ESP8266, ESP32, STM32, ATmega variants, Seeeduino XIAO, DigiSpark, and more).
-<p align="center"> <img src="images/url.png" width="80%" alt="Smart Switch Banner"/> </p>
+<p align="center"> <img src="images/url.png" width="80%" alt="Arduino Boards Manager URL"/> </p>
 ---
 
 ## 🔗 Board / Platform — URLs
